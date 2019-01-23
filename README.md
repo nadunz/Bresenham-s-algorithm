@@ -2,7 +2,7 @@
 Application to draw straight line between two points using Bresenham's line algorithm
 
 ## Requirements
-  - jdk 1.8
+  - jdk 1.8 or higher
 
 ## Compile & Run
   - $ `javac BresenhamLine.java`
